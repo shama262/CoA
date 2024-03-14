@@ -1,0 +1,26 @@
+{
+  "id": "coa-import",
+  "title": "CoA import",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "adventure",
+      "label": "adventure",
+      "path": "packs/adventure",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/user?u=56147101",
+  "manifest": "",
+  "download": ""
+}
